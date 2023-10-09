@@ -1,0 +1,1 @@
+# grub-env-block
